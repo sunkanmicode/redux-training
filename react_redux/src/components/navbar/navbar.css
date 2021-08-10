@@ -1,0 +1,22 @@
+.navbar{
+    /* width: 1080px; */
+    background-color: #444;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navLogo{
+    color: #fff;
+    font-size: 1.5rem;
+    margin: 20px;
+    cursor: pointer;
+}
+.navList{
+    display: flex;
+    color: #fff;
+    margin: 20px;
+}
+.navList h5{
+    margin: 10px;
+    cursor: pointer;
+}

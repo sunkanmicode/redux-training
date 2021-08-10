@@ -1,0 +1,27 @@
+.register{
+    width: 300px;
+    height: 400px;
+    margin: 20px auto;
+    background-color: #efefef;
+}
+ .registerForm{
+    /* padding: 20px; */
+}
+.registerHeader h3{
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+}
+.registerInput{
+    width: 80%;
+    margin: 20px;
+    padding: 10px;
+}
+.registerBtn{
+    margin:  20px;
+}
+.registerBtn button{
+    padding: 10px;
+    background-color: black;
+    color: #fff;
+}
